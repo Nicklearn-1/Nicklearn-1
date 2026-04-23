@@ -34,19 +34,18 @@
 
  
 
+<div align="center">
+
 ## 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=Nicklearn-1&show_icons=true&theme=tokyonight" />
 
- 
+## 🧠 Top Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicklearn-1&layout=compact&theme=tokyonight" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RetroSuccess\&show_icons=true\&theme=dark\&count_private=true\&include_all_commits=true\&cache_seconds=1800)
+## 🔥 GitHub Streak
+<img src="https://streak-stats.demolab.com/?user=Nicklearn-1&theme=tokyonight" />
 
- 
-
-![GitHub Streak](https://streak-stats.demolab.com?user=RetroSuccess\&theme=dark\&border_radius=5)
-
- 
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RetroSuccess\&theme=react-dark)
+</div>)
 
  
 
